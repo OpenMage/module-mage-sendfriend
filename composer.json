@@ -1,0 +1,14 @@
+{
+    "name": "openmage/module-mage-sendfriend",
+    "description": "Mage_Sendfriend classes for backward compatibility.",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "homepage": "https://github.com/OpenMage/module-mage-sendfriend",
+    "keywords": [
+        "openmage",
+        "sendfriend"
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
